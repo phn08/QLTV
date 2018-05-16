@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ClassLibrary1")>
+<Assembly: AssemblyTitle("QLTVDTO")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("ClassLibrary1")>
+<Assembly: AssemblyProduct("QLTVDTO")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("8d41a926-c275-479e-a099-81dc5d1fe342")>
+<Assembly: Guid("40b6d4ab-d05c-4740-87ea-e631ef83f908")>
 
 ' Version information for an assembly consists of the following four values:
 '
